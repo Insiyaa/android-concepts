@@ -23,3 +23,7 @@ you can collapse and un-collapse columns by calling `setColumnCollapsed()` on th
 *ScrollView* is a container that provides scrolling for its contents. You can take a layout that might be too big for some screens, wrap it in a *ScrollView*, and still use your existing layout logic.
 
 *HorizontalScrollView*, works like *ScrollView*, just horizontally. This would be good for forms that might be too wide rather than too tall.
+
+**Example**
+
+<img src="imgs/table.jpeg" height="500px">

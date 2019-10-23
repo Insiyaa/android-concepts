@@ -42,3 +42,7 @@ The last one is useful for aligning labels and fields so that the text appears
 Note that The first occurrence of an id value should have the plus sign
 ( `@+id/widget_a` ); the second and subsequent times that id value is used in
 the layout file should drop the plus sign ( `@id/widget_a` ).
+
+**Example**
+
+<img src="imgs/rel.jpeg" height="500px">

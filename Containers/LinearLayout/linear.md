@@ -47,3 +47,9 @@ How the widget and its container is aligned vis-à-vis the screen.
 Specifies how tightly the widgets are packed.
 
 Adding padding will increase the space between the contents (e.g., the caption of a Button ) and the edges, while adding margin increases the empty space between the edges and adjacent widgets.
+
+**Example**
+
+<img src="imgs/lin.jpeg" height="500px">
+
+<img src="imgs/lin1.jpeg" height="500px">
